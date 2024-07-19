@@ -46,3 +46,5 @@ Installation
 2. npm install bootstrap@5.3.3 codemirror@5.65.16 summernote@0.8.20
 3. npm install --save bootstrap@5.3.3 codemirror@5.65.16 summernote@0.8.20
 4. npm install
+5. Load index.html
+   
