@@ -1,7 +1,7 @@
 # Deepist
 A distraction-free workspace
 
-Introducing Deepist - that's deep with an ist at the end.
+Introducing Deepist!
 
 ![screenshot](Deepist%20Screenshot.png)
 
