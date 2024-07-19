@@ -6,6 +6,12 @@ A distraction-free workspace
 
 ![screenshot](Deepist%20Screenshot.png)
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3h0cvIZtXVw" target="_blank">
+    <img src="http://img.youtube.com/vi/3h0cvIZtXVw/0.jpg" alt="Deepist Demo" style="width:100%; max-width:600px;">
+  </a>
+</div>
+
 
 Deepist is a distraction-free workspace. Take a look at the interface. 
 
