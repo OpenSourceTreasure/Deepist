@@ -34,7 +34,7 @@ Many professionals are expected to do what is called "Deep Work". But the produc
 
 💬 Is that in your interest?
 
-Deepist is a distraction-free workspace where you do your Deep Work. When you are done, click Copy and paste your deep work into whatever distractive tool you use.
+Deepist is a minimalist, distraction-free workspace where you do your Deep Work. When you are done, click Copy and paste your deep work into whatever distractive tool you use.
 
 💡 PS - When you have many browser tabs open, Deepist is the one without the title and favicon!
 
