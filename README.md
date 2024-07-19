@@ -39,3 +39,10 @@ Many professionals are expected to do what is called "Deep Work". But the produc
 Deepist is a distraction-free workspace where you do your Deep Work. When you are done, click Copy and paste your deep work into whatever distractive tool you use.
 
 💡 PS - When you have many browser tabs open, Deepist is the one without the title and favicon!
+
+Installation
+
+1. npm init -y in terminal from the app folder
+2. npm install bootstrap@5.3.3 codemirror@5.65.16 summernote@0.8.20
+3. npm install --save bootstrap@5.3.3 codemirror@5.65.16 summernote@0.8.20
+4. npm install
