@@ -1,7 +1,8 @@
 # Deepist
+Introducing Deepist!
+
 A distraction-free workspace
 
-Introducing Deepist!
 
 ![screenshot](Deepist%20Screenshot.png)
 
