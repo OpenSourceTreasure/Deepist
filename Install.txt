@@ -1,9 +1,9 @@
-Deepist 
+Deepist
 
 Portable Version
 ────────────────
 1. npm init -y in terminal from the app folder
-2. npm install bootstrap@5.3.3 codemirror@5.65.16 simplemde@1.11.2
-3. npm install --save bootstrap@5.3.3 codemirror@5.65.16 simplemde@1.11.2
-4. Copy to other laptop and run npm install
+2. npm install bootstrap@5.3.3 codemirror@5.65.16 summernote@0.8.20
+3. npm install --save bootstrap@5.3.3 codemirror@5.65.16 summernote@0.8.20
+4. npm install
 
