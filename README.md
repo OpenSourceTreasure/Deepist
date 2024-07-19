@@ -5,8 +5,6 @@ Introducing Deepist - that's deep with an ist at the end.
 
 ![screenshot](Deepist%20Screenshot.png)
 
-<video src="https://github.com/OpenSourceTreasure/Deepist/blob/main/Deepist%20Video%20Pitch%202.mkv" width="300" />
-
 
 Deepist is a distraction-free workspace. Take a look at the interface. 
 
