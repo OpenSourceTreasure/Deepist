@@ -6,14 +6,23 @@ Introducing Deepist - that's deep with an ist at the end.
 Deepist is a distraction-free workspace. Take a look at the interface. 
 
 • The name Deepist doesn't appear
+
 • There is no title or favicon
-• No logos or icons 
+
+• No logos or icons
+
 • No top navigation bar and no footer
+
 • No scrolling
+
 • No cookies
+
 • No admin area
+
 • No notifications
+
 • No chat
+
 • It is Self-hosted and not connected to anything
 
 These are features, not bugs. 
