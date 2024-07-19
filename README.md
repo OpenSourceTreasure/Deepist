@@ -30,7 +30,7 @@ Deepist is a distraction-free workspace. Take a look at the interface.
 
 These are features, not bugs. 
 
-There are sections for your to write about your goals, ideas, coding, content and even a Relax button to chill out when you want.
+There are sections for you to write about your goals, ideas, coding, content and even a Relax button to chill out when you want.
 
 Many professionals are expected to do what is called "Deep Work". But the productivity and collaboration tools on the market are full of distractions and what is called "feature creep". How can you come up with a deep thought when the typical page resembles a social media theme, with colorful buttons and flickering lights? Sometimes it seems that today's productivity & collaboration tools are in a race to see who can get your attention the most. 
 
