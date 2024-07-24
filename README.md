@@ -4,6 +4,7 @@ Introducing Deepist!
 
 ![screenshot](Deepist%20Screenshot.png)
 
+Demo: https://opensourcetreasure.github.io/Deepist/index.html
 
 Deepist is a distraction-free workspace. Take a look at the interface. 
 
