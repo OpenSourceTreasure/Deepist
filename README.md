@@ -1,12 +1,12 @@
 # Deepist
-Introducing Deepist!
+Introducing Deepist, the distraction-free workspace.
 
 
 ![screenshot](Deepist%20Screenshot.png)
 
 Demo: https://opensourcetreasure.github.io/Deepist/index.html
 
-Deepist is a distraction-free workspace. Take a look at the interface. 
+Let's take a look at the interface. 
 
 ✅ The name Deepist doesn't appear
 
