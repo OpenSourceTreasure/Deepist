@@ -27,7 +27,7 @@ Let's take a look at the interface.
 ✅ No chat
 
 
-✔ These are features, not bugs. 
+😏 These are features, not bugs. 
 
 There are sections for you to write about your goals, ideas, coding, content and even a Relax button to chill out when you want.
 
