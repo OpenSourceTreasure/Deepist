@@ -2,7 +2,7 @@
 🥁 Introducing Deepist, the distraction-free workspace
 
 
-![screenshot](Deepist%20Screenshot.png)
+![screenshot](Deepist-GUI.png)
 
 Demo: https://opensourcetreasure.github.io/Deepist/index.html
 
