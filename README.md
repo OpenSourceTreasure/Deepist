@@ -1,5 +1,6 @@
 # Deepist
 🥁 Introducing Deepist, the distraction-free workspace 
+
 🎤 For people paid to produce deep work
 
 
