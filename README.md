@@ -1,7 +1,7 @@
 # Deepist
 🥁 Introducing Deepist, the new distraction-free workspace 
 
-🎤 Are you paid to produce deep work? Read on!
+🎤 Are you paid to produce deep work? Read on! 🎸
 
 
 ![screenshot](Deepist-GUI.png)
