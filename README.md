@@ -8,7 +8,7 @@
 
 Demo: https://opensourcetreasure.github.io/Deepist/index.html
 
-🎷 Let's take a look at the interface. 
+🎷 Let's take a look at the interface
 
 ✅ The name Deepist doesn't appear
 
