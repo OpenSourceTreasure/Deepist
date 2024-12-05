@@ -1,9 +1,6 @@
 # Deepist
 🥁 Introducing Deepist, the new distraction-free workspace 
 
-🎤 Are you paid to produce deep work? Read on!
-
-
 ![screenshot](Deepist-GUI.png)
 
 Demo: https://opensourcetreasure.github.io/Deepist/index.html
