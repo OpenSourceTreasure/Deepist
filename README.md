@@ -1,5 +1,5 @@
 # Deepist
-🥁 Introducing Deepist, the new distraction-free workspace 
+🥁 Introducing Deepist, the distraction-free workspace 
 
 ![screenshot](Deepist-GUI.png)
 
