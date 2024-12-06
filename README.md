@@ -30,8 +30,6 @@ Demo: https://opensourcetreasure.github.io/Deepist/index.html
 
 There are sections for you to write about your goals, ideas, coding, content and even a Relax button to chill out when you want.
 
-Deepist is a minimalist, distraction-free workspace where you do your Deep Work. When you are done, click Copy and paste your deep work into whatever distractive tool you use.
-
 💡 PS - When you have many browser tabs open, Deepist is the one without the title and favicon!
 
 Installation
